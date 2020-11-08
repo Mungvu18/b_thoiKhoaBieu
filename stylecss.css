@@ -1,0 +1,13 @@
+p span.dayphai{
+    float: right;
+}
+table tr td.to {
+    width: 20%;
+}
+table tr td.nho {
+    width: 6%;
+    text-align: center;
+}
+table tr td.bt {
+    width: 17%;
+}
