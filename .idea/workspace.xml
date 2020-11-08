@@ -26,6 +26,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604767830141</updated>
       <workItem from="1604767831185" duration="557000" />
-      <workItem from="1604798310132" duration="3943000" />
+      <workItem from="1604798310132" duration="4360000" />
     </task>
     <servers />
   </component>
